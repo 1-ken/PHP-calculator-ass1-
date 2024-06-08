@@ -19,7 +19,7 @@ This is a multipurpose calculator capable of performing various calculations inc
     Make sure you have a local server set up (e.g., XAMPP, WAMP, MAMP). Place the project folder in the server's root directory (`htdocs` for XAMPP).
 
 4. **Access the Application**
-    Open your web browser and navigate to `http://localhost/multipurpose-calculator`.
+    Open your web browser and navigate to `http://localhost/PHP-calculator-ass1-/index.php`.
 
 ## Usage
 
