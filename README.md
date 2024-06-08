@@ -1,5 +1,5 @@
 # Multipurpose Calculator
-
+![alt text](image.png)
 ## Overview
 This is a multipurpose calculator capable of performing various calculations including addition, subtraction, multiplication, division, exponentiation, percentage calculations, square roots, and logarithms.
 
@@ -7,7 +7,7 @@ This is a multipurpose calculator capable of performing various calculations inc
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/multipurpose-calculator.git
+    git clone https://github.com/1-ken/PHP-calculator-ass1-
     ```
 
 2. **Navigate to Project Directory**
